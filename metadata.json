@@ -1,0 +1,6 @@
+{
+  "name": "ContactHub Enterprise",
+  "description": "Production-grade Contact Management System with multi-label emails/phones, search & pagination, audit logging, and Spring Boot architecture integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
